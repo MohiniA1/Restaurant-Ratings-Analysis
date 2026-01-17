@@ -35,18 +35,19 @@ To analyze restaurant performance, consumer behavior, dining preferences, and sa
 ### Home Dashboard
 
 Purpose: High-level business overview
-1) Key Visuals & Why Used:
 
-KPI Cards – Total restaurants, cuisines, consumers, cities, states
-→ Quick business snapshot
+##### Key Visuals & Why Used:
 
-Bar Charts – Consumers by city & state
-→ Easy regional comparison
+1) KPI Cards – Total restaurants, cuisines, consumers, cities, states
+Quick business snapshot
 
-Stacked Bar Charts – Smoking rates & parking availability
-→ Compare multiple attributes in one view
+2) Bar Charts – Consumers by city & state
+Easy regional comparison
 
-Insights:
+3) Stacked Bar Charts – Smoking rates & parking availability
+Compare multiple attributes in one view
+
+#### Insights:
 1) San Luis Potosi has the highest consumer count
 
 2) Smoking policies vary significantly by city
@@ -57,18 +58,17 @@ Insights:
 
 Purpose: Analyze dining preferences & pricing impact
 
-Key Visuals & Why Used:
+##### Key Visuals & Why Used:
+1) Donut Charts – Franchise vs Non-Franchise ratings
+Ideal for proportion comparison
 
-Donut Charts – Franchise vs Non-Franchise ratings
-→ Ideal for proportion comparison
+2) Line & Area Chart – Price levels vs parking
+Trend analysis
 
-Line & Area Chart – Price levels vs parking
-→ Trend analysis
+3) Bar Charts – Preferred cuisines
+Identify most popular food categories
 
-Bar Charts – Preferred cuisines
-→ Identify most popular food categories
-
-Insights:
+#### Insights:
 
 1) Mexican cuisine dominates customer preference
 2) Medium-priced restaurants perform best
@@ -78,37 +78,36 @@ Insights:
 
 Purpose: Study services like alcohol & transportation
 
-Key Visuals & Why Used:
+##### Key Visuals & Why Used:
 
-Donut Chart – Alcohol service types
-→ Distribution of service offerings
+1) Donut Chart – Alcohol service types
+Distribution of service offerings
 
-Bar Chart – Transportation mode by city
-→ Consumer accessibility analysis
+2) Bar Chart – Transportation mode by city
+Consumer accessibility analysis
 
-Tree Map – Smoking policies by state
-→ Space-efficient comparison
+3) Tree Map – Smoking policies by state
+Space-efficient comparison
 
-Insights:
+#### Insights:
 
 1) Restaurants without alcohol service still receive high ratings
 2) Public transport is the most used mode
 3) Smoking sections influence customer satisfaction
 
-Behavior Dashboard
+### Behavior Dashboard
 
 Purpose: Understand consumer lifestyle & spending behavior
 
-Key Visuals & Why Used:
+##### Key Visuals & Why Used:
+1) Stacked Bar Charts – Occupation vs budget
+Spending power comparison
 
-Stacked Bar Charts – Occupation vs budget
-→ Spending power comparison
+2) Bar Charts – Drinking habits by state
+Behavioral trends
 
-Bar Charts – Drinking habits by state
-→ Behavioral trends
-
-Clustered Bars – Marital status vs smoking & drinking
-→ Side-by-side behavior comparison
+3) Clustered Bars – Marital status vs smoking & drinking
+Side-by-side behavior comparison
 
 Insights:
 
@@ -120,13 +119,13 @@ Insights:
 
 Purpose: Identify top-performing restaurants
 
-Key Visuals & Why Used:
+##### Key Visuals & Why Used:
 
-Stacked Bar Charts – Food & service ratings
-→ Compare satisfaction levels
+1) Stacked Bar Charts – Food & service ratings
+Compare satisfaction levels
 
-Table with Conditional Formatting – Overall ratings
-→ Easy ranking & filtering
+2) Table with Conditional Formatting – Overall ratings
+Easy ranking & filtering
 
 Insights:
 
