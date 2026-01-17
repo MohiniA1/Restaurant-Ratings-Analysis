@@ -146,5 +146,6 @@ Insights:
 2) Increase customer satisfaction & retention
 3) Drive data-backed operational decisions
 
-
+##### PDF file attached
+https://github.com/MohiniA1/Restaurant-Ratings-Analysis/blob/main/Restaurant%20Ratings%20Analysis.pdf
 
